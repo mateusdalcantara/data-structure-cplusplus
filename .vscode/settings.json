@@ -3,6 +3,7 @@
     "iostream": "cpp",
     "*.tcc": "cpp",
     "format": "cpp",
-    "optional": "cpp"
+    "optional": "cpp",
+    "new": "cpp"
   }
 }
